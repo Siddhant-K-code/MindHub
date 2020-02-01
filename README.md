@@ -1,8 +1,8 @@
-@@ -1,52 +1 @@
-Copy the repository to htdocs folder in where xampp is installed and go to localhost/repository name
+
+<b>Copy the repository to htdocs folder in where xampp is installed and go to localhost/repository name
 
 
-MindHub
+<b>MindHub
 
 -A Project by Codebusterz.
 
