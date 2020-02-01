@@ -1,4 +1,4 @@
-Copy the repository to htdocs folder in where xampp is installed and go to localhost/<repository name>
+Copy the repository to htdocs folder in where xampp is installed and go to localhost/repository name
 
 
 MindHub
